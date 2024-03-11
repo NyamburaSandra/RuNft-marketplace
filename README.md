@@ -21,7 +21,7 @@ User must have access to a computer.
 User must be connected to the internet.
 
 ## Installation Process
-Clone the repository: git clone 'https://github.com/rw123-byte/R-nft-marketplace'
+Clone the repository: git clone 'https://github.com/NyamburaSandra/RuNft-marketplace'
 Unzip the cloned files in a folder of choice.
 Open the index file from the zipped folder with any browser.
 
