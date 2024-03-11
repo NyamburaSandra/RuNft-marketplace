@@ -14,7 +14,7 @@ Sandra Nyambura
 https://github.com/NyamburaSandra
 
 ## deployment link
-http://r-nft-marketplace.vercel.app/
+https://runfts.netlify.app/
 
 ## Requirements
 User must have access to a computer.
