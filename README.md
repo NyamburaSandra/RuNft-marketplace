@@ -14,7 +14,7 @@ Sandra Nyambura
 https://github.com/NyamburaSandra
 
 ## deployment link
-https://runfts.netlify.app/
+https://runfts.netlify.app
 
 ## Requirements
 User must have access to a computer.
